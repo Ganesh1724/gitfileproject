@@ -1,0 +1,11 @@
+import.java.util.Scanner;
+public class AdditionofNumbers{
+	public static void main(string args[])
+	{
+		scanner sc=new Scanner(System.in);
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+		int c=a+b;
+		System.out.println("Addition of two numbers is:"+c);
+	}
+	
